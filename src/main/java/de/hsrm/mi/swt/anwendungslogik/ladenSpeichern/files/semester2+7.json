@@ -1,0 +1,226 @@
+[{
+    "modul": {
+        "ausgewaehlt": 0,
+        "angebot": "SS",
+        "titel": "Algorithmen und Datenstrukturen",
+        "kompetenzen": [
+            "Algorithmen entwerfen, bewerten (Laufzeit) und implementieren",
+            "Dynamische Datenstrukturen objektorientiert implementieren",
+            "Für Problemstellungen passende Algorithmen und Datenstrukturen auswählen und bestehende Bibliotheken nutzen"
+        ],
+        "creditpoints": 5,
+        "lehrveranstaltungsnummer": 2110,
+        "pruefung": "SCHRIFTLICH",
+        "kurzbeschreibung": "Entwurf, Implementierung und Auswahl von Algorithmen und Datenstrukturen für gegebene Problemstellungen sind typische Aufgaben einer Medieninformatikerin beziehungsweise eines Medieninformatikers.",
+        "abhaengigkeiten": [
+            "Programmieren 1",
+            "Einführung in die Medieninformatik",
+            "Analysis"
+        ],
+        "kuerzel": "ADS",
+        "fachsemester": 2,
+        "bestanden": false,
+        "lehrveranstaltung": [
+            "VORLESUNG",
+            "PRAKTIKUM" 
+        ]
+    }
+},
+{
+    "modul": {
+        "ausgewaehlt": 0,
+        "angebot": "SS",
+        "titel": "Auszeichnungssprachen",
+        "kompetenzen": [
+            "XML zur Definition von Auszeichnungssprachen einsetzen",
+            "XML-basierter Dokumente (insb. Parsing, Transformation) erzeugen und weiter verarbeiten",
+            "XML in unterschiedlichen Einsatzbereichen (z.B. Multimedia, el. Datenaustausch) sinnvoll einsetzen"
+        ],
+        "creditpoints": 5,
+        "lehrveranstaltungsnummer": 2120,
+        "pruefung": "SCHRIFTLICH",
+        "kurzbeschreibung": "Auszeichnungssprachen spielen eine immer größere Rolle bei der Repräsentation, dem maschinellen Austausch und der Weiterverarbeitung strukturierter Informationen, beispielsweise im elektronischen Datenaustausch, vielen Internet-Anwendungen und mobilen Informationssystemen.",
+        "abhaengigkeiten": [
+            "Einführung in die Medieninformatik",
+            "Programmieren 1"
+        ],
+        "kuerzel": "AZS",
+        "fachsemester": 2,
+        "bestanden": false,
+        "lehrveranstaltung": [
+            "VORLESUNG",
+            "PRAKTIKUM" 
+        ]
+    }
+},
+{
+    "modul": {
+        "ausgewaehlt": 0,
+        "angebot": "SS",
+        "titel": "Programmieren 2",
+        "kompetenzen": [
+            "Objektorientierte Paradigmen aufgabengerecht einsetzen",
+            "Programmieraufgaben in einer konkreten Programmiersprache objektorientiert umsetzen",
+            "Umfangreichen, genormten Standard Bibliotheken verwenden"
+        ],
+        "creditpoints": 5,
+        "lehrveranstaltungsnummer": 2130,
+        "pruefung": "SCHRIFTLICH",
+        "kurzbeschreibung": "Ausbau der bisherigen Fertigkeiten und Techniken des Programmierens",
+        "abhaengigkeiten": [
+            "Programmieren 1",
+            "Einführung in die Medieninformatik"
+        ],
+        "kuerzel": "Prog2",
+        "fachsemester": 2,
+        "bestanden": false,
+        "lehrveranstaltung": [
+            "VORLESUNG",
+            "PRAKTIKUM" 
+        ]
+    }
+},
+{
+    "modul": {
+        "ausgewaehlt": 0,
+        "angebot": "SS",
+        "titel": "Gestaltung elektronischer Medien",
+        "kompetenzen": [
+            "die Projektphasen eines Gestaltungsprojekts (elektronische Medien) kennen",
+            "und eine entsprechende Aufgabenstellung in Gruppenarbeit lösen können",
+            "medienspezifische Gestaltungsgrundlagen beherrschen",
+            "Entwurfsvarianten begründen und Gestaltungslösungen präsentieren können"
+        ],
+        "creditpoints": 5,
+        "lehrveranstaltungsnummer": 2240,
+        "pruefung": "SCHRIFTLICH",
+        "kurzbeschreibung": "Eine wichtige Gestaltungsdisziplin für Medieninformatikerinnen und Medieninformatiker ist das Design von Benutzungsoberflächen elektronischer Medien. Dabei werden die im ersten Semester erworbenen grundlegenden Gestaltungskenntnisse vertieft und speziali siert. Am Ende des Semesters sollen die Studierenden die gestalterische Funktionalität und ästhetische Qualität grafischer User-Interfaces nach objektiven Kriterien beurteilen können.",
+        "abhaengigkeiten": [
+            "Einführung in die Gestaltung"
+        ],
+        "kuerzel": "GEM",
+        "fachsemester": 2,
+        "bestanden": false,
+        "lehrveranstaltung": [
+            "VORLESUNG",
+            "PRAKTIKUM" 
+        ]
+    }
+},
+{
+    "modul": {
+        "ausgewaehlt": 0,
+        "angebot": "SS",
+        "titel": "Lineare Algebra",
+        "kompetenzen": [
+            "Beherrschung der Matrizenrechnung",
+            "Lösen von linearen Gleichungssystemen",
+            "Umgang mit komplexen Größen"
+        ],
+        "creditpoints": 5,
+        "lehrveranstaltungsnummer": 2350,
+        "pruefung": "SCHRIFTLICH",
+        "kurzbeschreibung": "Die Modellbildung und deren Analyse fordert von Medieninformatikerinnen und Medieninformatikern den sicheren Umgang mit Vektoren und linearen Abbildungen",
+        "abhaengigkeiten": [
+            "Analysis"
+        ],
+        "kuerzel": "LA",
+        "fachsemester": 2,
+        "bestanden": false,
+        "lehrveranstaltung": [
+            "VORLESUNG"
+        ]
+    }
+},
+{
+    "modul": {
+        "ausgewaehlt": 0,
+        "angebot": "SS",
+        "titel": "IT-Recht und Datenschutz",
+        "kompetenzen": [
+            
+        ],
+        "creditpoints": 5,
+        "lehrveranstaltungsnummer": 2460,
+        "pruefung": "SCHRIFTLICH",
+        "kurzbeschreibung": "Studierende sind in der Lage, ihr berufliches Handeln rechtlich zu begründen und kritisch in Bezug rechtliche Erwartungen und Folgen zu reflektieren. Sie beherrschen die Grundzusammenhänge des IT-Rechts und des Datenschutzrechts sowie das problembewusste Erkennen von entsprechenden praxisbezogenen Grundfällen im Arbeitsumfeld einer Medieninformatikerin und eines Medieninformatikers.",
+        "abhaengigkeiten": [
+            
+        ],
+        "kuerzel": "Recht",
+        "fachsemester": 2,
+        "bestanden": false,
+        "lehrveranstaltung": [
+            "VORLESUNG"
+        ]
+    }
+},
+{
+    "modul": {
+        "ausgewaehlt": 0,
+        "angebot": "WS",
+        "titel": "Wahlpflicht-Liste Internationalisierung",
+        "kompetenzen": [
+            
+        ],
+        "creditpoints": 4,
+        "lehrveranstaltungsnummer": 0,
+        "pruefung": "PRAKTISCH",
+        "kurzbeschreibung": "",
+        "abhaengigkeiten": [
+            
+        ],
+        "kuerzel": "INT",
+        "fachsemester": 7,
+        "bestanden": false,
+        "lehrveranstaltung": [
+            
+        ]
+    }
+},
+{
+    "modul": {
+        "ausgewaehlt": 0,
+        "angebot": "WS",
+        "titel": "Portfolio Medieninformatik",
+        "kompetenzen": [
+            
+        ],
+        "creditpoints": 10,
+        "lehrveranstaltungsnummer": 7000,
+        "pruefung": "PRAKTISCH",
+        "kurzbeschreibung": "Ziel des Moduls ist es, den Studierenden die Möglichkeit zu geben, ein ihren Neigungen entsprechendes Kompetenzprofil auszubauen. Die Studierenden können aus den vorhan denen Auswahllisten und den weiteren Wahlmöglichkeiten die Lehrveranstaltungen und Projekte identifizieren, die ihr Profil wie gewünscht erweitern. Zudem können die Studierenden in diesem Modul die Fähigkeiten zur praktische Umsetzung mittels ihrer bisher erworbenen Kompetenzen anhand von Projekten vertiefen. Neben Kompetenzen in den Bereichen der Informatik und Gestaltung erlangen die Studierenden Kompetenzen im Bereich des Projektmanagements sowie beim wissenschaftlichen Arbeiten und bei der Vorbereitung von Präsentationen",
+        "abhaengigkeiten": [
+            
+        ],
+        "kuerzel": "PM",
+        "fachsemester": 7,
+        "bestanden": false,
+        "lehrveranstaltung": [
+            
+        ]
+    }
+},
+{
+    "modul": {
+        "ausgewaehlt": 0,
+        "angebot": "WS",
+        "titel": "Bachelor-Thesis",
+        "kompetenzen": [
+            
+        ],
+        "creditpoints": 15,
+        "lehrveranstaltungsnummer": 9040,
+        "pruefung": "PRAKTISCH",
+        "kurzbeschreibung": "Selbständige praxistaugliche Anwendung der im Studium gelernten Konzepte und Methoden zur Lösung einer begrenzten Aufgabenstellung in begrenzter Zeit im Schwierigkeitsbereich von fortgeschrittenen Lehrbüchern unter Einschluss einiger Bereiche des aktuellsten Wissensstandes des Studienfaches. Präsentation der Themenstellung der Abschlussarbeit und der dabei entwickelten Ergebnisse.",
+        "abhaengigkeiten": [
+            
+        ],
+        "kuerzel": "Thesis",
+        "fachsemester": 7,
+        "bestanden": false,
+        "lehrveranstaltung": [
+            
+        ]
+    }
+}]

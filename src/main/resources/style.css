@@ -1,0 +1,99 @@
+ModulView:hover,
+Button:hover {
+    -fx-background-color: lightgrey;
+}
+
+Button {
+    -fx-background-color: white;
+    -fx-background-radius: 10;
+    -fx-border-color: black;
+    -fx-border-width: 1;
+    -fx-border-radius: 10 10 10 10;
+}
+
+HBox {
+    -fx-spacing: 10;
+}
+
+VBox {
+    -fx-spacing: 4;
+}
+
+FehleranzeigeView {
+    -fx-background-color: red;
+    -fx-background-radius: 30;
+    -fx-padding: 5;
+}
+
+ModulInfoView {
+    -fx-background-color: white;
+    -fx-border-color: black;
+    -fx-border-width: 1;
+    -fx-padding: 20;
+}
+
+SpeicherLadeView {
+    -fx-spacing: 10;
+    -fx-background-color: white;
+    -fx-border-color: black;
+    -fx-border-width: 1;
+    -fx-padding: 20;
+}
+
+StudiengangInfoView {
+    -fx-background-color: white;
+    -fx-padding: 20;
+    -fx-border-color-top: black;
+    -fx-border-width: 1;
+}
+
+ModulView {
+    -fx-background-radius: 10;
+    -fx-border-color: black;
+    -fx-border-width: 1;
+    -fx-border-radius: 10 10 10 10;
+    -fx-padding: 5px;
+    -fx-Max-height: 50;
+}
+
+ModulView:selected {
+    -fx-border-color: black;
+}
+
+ListView {
+    -fx-background-color: white;
+    -fx-font-color: black;
+}
+
+InfoView {
+    -fx-background-color: white;
+    -fx-padding: 10;
+}
+
+.list-cell:odd {
+    -fx-background-color: white;
+}
+
+.list-cell:even {
+    -fx-background-color: white;
+}
+
+ListRow {
+    -fx-background-radius: 10;
+    -fx-border-color: black;
+    -fx-border-width: 1;
+    -fx-border-radius: 10 10 10 10;
+    -fx-padding: 3px;
+}
+
+PlanView {
+    -fx-background-color: white;
+    -fx-padding: 10;
+}
+
+ModulauswahlView {
+    -fx-background-color: white;
+    -fx-border-color: black;
+    -fx-border-width: 2;
+    -fx-padding: 10;
+}

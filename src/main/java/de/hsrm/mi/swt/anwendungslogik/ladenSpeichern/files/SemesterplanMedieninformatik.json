@@ -1,0 +1,788 @@
+[{
+        "studiengang": {
+            "name": "Medieninformatik",
+            "fachbereich": "Informatik",
+            "po": 17,
+            "startzeit": "WS",
+            "regelstudienzeit": 7,
+
+            "module": [{
+
+                    "modul": {
+                        "ausgewaehlt": 0,
+                        "angebot": "WS",
+                        "titel": "Einführung in die Medieninformatik",
+                        "kompetenzen": [
+                            "Grundlegende Arbeitstechniken im Umgang mit Rechnern erlernen",
+                            "Die Lehrveranstaltungen des Studienplans einordnen können",
+                            "Spaß am Informatik-Studium bekommen"
+                        ],
+                        "creditpoints": 5,
+                        "lehrveranstaltungsnummer": 1110,
+                        "verbindlichkeit": true,
+                        "pruefung": "SCHRIFTLICH",
+                        "kurzbeschreibung": "Grundlegende Modelle, Methoden, Verfahren und Techniken kennen lernen, die bei der Konstruktion informationstechnischer Systeme in Hardware und Software Verwendung finden",
+                        "abhaengigkeiten": [
+
+                        ],
+                        "kuerzel": "EINF",
+                        "fachsemester": 1,
+                        "bestanden": false,
+                        "lehrveranstaltung": [
+                            "VORLESUNG",
+                            "PRAKTIKUM"
+                        ]
+                    }
+                },
+                {
+                    "modul": {
+                        "ausgewaehlt": 0,
+                        "angebot": "WS",
+                        "titel": "Programmieren 1",
+                        "kompetenzen": [
+                            "Eine konkrete Programmiersprache, deren Syntax und Eigenschaften für Programmieraufgaben einsetzen",
+                            "Aufgabenstellungen strukturieren und mit prozeduralen Programmierung lösen"
+                        ],
+                        "creditpoints": 7,
+                        "lehrveranstaltungsnummer": 1120,
+                        "verbindlichkeit": true,
+                        "pruefung": "SCHRIFTLICH",
+                        "kurzbeschreibung": "Grundlagen des Algorithmenentwurfs und der Programmierung",
+                        "abhaengigkeiten": [
+
+                        ],
+                        "kuerzel": "WBA",
+                        "fachsemester": 1,
+                        "bestanden": false,
+                        "lehrveranstaltung": [
+                            "VORLESUNG",
+                            "PRAKTIKUM"
+                        ]
+                    }
+                },
+                {
+                    "modul": {
+                        "ausgewaehlt": 0,
+                        "angebot": "WS",
+                        "titel": "Einführung in die Gestaltung",
+                        "kompetenzen": [
+                            "Design-Lösungen nach objektiven Kriterien beurteilen können",
+                            "medienunabhängige gestalterische Grundkenntnisse besitzen",
+                            "den Ablauf des kreativen Gestaltungsprozesses verstehen",
+                            "einfache Gestaltungsaufgaben lösen können",
+                            "standardisierte Gestaltungssoftware einsetzen können"
+                        ],
+                        "creditpoints": 8,
+                        "lehrveranstaltungsnummer": 1230,
+                        "verbindlichkeit": true,
+                        "pruefung": "PRAKTISCH",
+                        "kurzbeschreibung": "Medieninformatikerinnen und Medieninformatik müssen Aufgaben und Nutzen von Mediendesign verstehen. Voraussetzung dafür ist die praktische und theoretische Auseinandersetzung mit grundlegenden Gestaltungstechniken und -regeln. Am Ende des Semesters sollen die Studierenden",
+                        "abhaengigkeiten": [
+
+                        ],
+                        "kuerzel": "EGES",
+                        "fachsemester": 1,
+                        "bestanden": false,
+                        "lehrveranstaltung": [
+                            "VORLESUNG",
+                            "PRAKTIKUM"
+                        ]
+                    }
+                },
+                {
+                    "modul": {
+                        "ausgewaehlt": 0,
+                        "angebot": "WS",
+                        "titel": "Analysis",
+                        "kompetenzen": [
+                            "den sicheren Umgang mit Funktionen",
+                            "Beherrschung der Differential- und Integralrechnung",
+                            "die Darstellung der Funktionen als Potenzreihen"
+                        ],
+                        "creditpoints": 5,
+                        "lehrveranstaltungsnummer": 1340,
+                        "verbindlichkeit": true,
+                        "pruefung": "SCHRIFTLICH",
+                        "kurzbeschreibung": "Hierbei handelt es sich um Mathe!",
+                        "abhaengigkeiten": [
+
+                        ],
+                        "kuerzel": "ANA",
+                        "fachsemester": 1,
+                        "bestanden": false,
+                        "lehrveranstaltung": [
+                            "VORLESUNG"
+                        ]
+                    }
+                },
+                {
+                    "modul": {
+                        "ausgewaehlt": 0,
+                        "angebot": "WS",
+                        "titel": "Grundlagen der Betriebswirtschaftslehre",
+                        "kompetenzen": [
+                            "wirtschaftliche Grundbedingungen und Zusammenhänge der betrieblichen Aktivitäten beurteilen",
+                            "Kosten von Projekten abschätzen und kontrollieren",
+                            "Investitions- und Projektkalkulationen durchführen"
+                        ],
+                        "creditpoints": 5,
+                        "lehrveranstaltungsnummer": 1450,
+                        "verbindlichkeit": true,
+                        "pruefung": "SCHRIFTLICH",
+                        "kurzbeschreibung": "Medieninformatikerinnen und Medieninformatiker brauchen in einem besonders turbulenten wirtschaftlichen Umfeld mit hohen Innovationsraten, wirtschaftlichen Risiken und Kundenansprüchen betriebswirtschaftliche Kenntnisse und Fähigkeiten",
+                        "abhaengigkeiten": [
+
+                        ],
+                        "kuerzel": "BWL",
+                        "fachsemester": 1,
+                        "bestanden": false,
+                        "lehrveranstaltung": [
+                            "VORLESUNG"
+                        ]
+                    }
+                },
+                {
+                    "modul": {
+                        "ausgewaehlt": 0,
+                        "angebot": "SS",
+                        "titel": "Algorithmen und Datenstrukturen",
+                        "kompetenzen": [
+                            "Algorithmen entwerfen, bewerten (Laufzeit) und implementieren",
+                            "Dynamische Datenstrukturen objektorientiert implementieren",
+                            "Für Problemstellungen passende Algorithmen und Datenstrukturen auswählen und bestehende Bibliotheken nutzen"
+                        ],
+                        "creditpoints": 5,
+                        "lehrveranstaltungsnummer": 2110,
+                        "pruefung": "SCHRIFTLICH",
+                        "kurzbeschreibung": "Entwurf, Implementierung und Auswahl von Algorithmen und Datenstrukturen für gegebene Problemstellungen sind typische Aufgaben einer Medieninformatikerin beziehungsweise eines Medieninformatikers.",
+                        "abhaengigkeiten": [
+                            "Programmieren 1",
+                            "Einführung in die Medieninformatik",
+                            "Analysis"
+                        ],
+                        "kuerzel": "ADS",
+                        "fachsemester": 2,
+                        "bestanden": false,
+                        "lehrveranstaltung": [
+                            "VORLESUNG",
+                            "PRAKTIKUM"
+                        ]
+                    }
+                },
+                {
+                    "modul": {
+                        "ausgewaehlt": 0,
+                        "angebot": "SS",
+                        "titel": "Auszeichnungssprachen",
+                        "kompetenzen": [
+                            "XML zur Definition von Auszeichnungssprachen einsetzen",
+                            "XML-basierter Dokumente (insb. Parsing, Transformation) erzeugen und weiter verarbeiten",
+                            "XML in unterschiedlichen Einsatzbereichen (z.B. Multimedia, el. Datenaustausch) sinnvoll einsetzen"
+                        ],
+                        "creditpoints": 5,
+                        "lehrveranstaltungsnummer": 2120,
+                        "pruefung": "SCHRIFTLICH",
+                        "kurzbeschreibung": "Auszeichnungssprachen spielen eine immer größere Rolle bei der Repräsentation, dem maschinellen Austausch und der Weiterverarbeitung strukturierter Informationen, beispielsweise im elektronischen Datenaustausch, vielen Internet-Anwendungen und mobilen Informationssystemen.",
+                        "abhaengigkeiten": [
+                            "Einführung in die Medieninformatik",
+                            "Programmieren 1"
+                        ],
+                        "kuerzel": "AZS",
+                        "fachsemester": 2,
+                        "bestanden": false,
+                        "lehrveranstaltung": [
+                            "VORLESUNG",
+                            "PRAKTIKUM"
+                        ]
+                    }
+                },
+                {
+                    "modul": {
+                        "ausgewaehlt": 0,
+                        "angebot": "SS",
+                        "titel": "Programmieren 2",
+                        "kompetenzen": [
+                            "Objektorientierte Paradigmen aufgabengerecht einsetzen",
+                            "Programmieraufgaben in einer konkreten Programmiersprache objektorientiert umsetzen",
+                            "Umfangreichen, genormten Standard Bibliotheken verwenden"
+                        ],
+                        "creditpoints": 5,
+                        "lehrveranstaltungsnummer": 2130,
+                        "pruefung": "SCHRIFTLICH",
+                        "kurzbeschreibung": "Ausbau der bisherigen Fertigkeiten und Techniken des Programmierens",
+                        "abhaengigkeiten": [
+                            "Programmieren 1",
+                            "Einführung in die Medieninformatik"
+                        ],
+                        "kuerzel": "Prog2",
+                        "fachsemester": 2,
+                        "bestanden": false,
+                        "lehrveranstaltung": [
+                            "VORLESUNG",
+                            "PRAKTIKUM"
+                        ]
+                    }
+                },
+                {
+                    "modul": {
+                        "ausgewaehlt": 0,
+                        "angebot": "SS",
+                        "titel": "Gestaltung elektronischer Medien",
+                        "kompetenzen": [
+                            "die Projektphasen eines Gestaltungsprojekts (elektronische Medien) kennen",
+                            "und eine entsprechende Aufgabenstellung in Gruppenarbeit lösen können",
+                            "medienspezifische Gestaltungsgrundlagen beherrschen",
+                            "Entwurfsvarianten begründen und Gestaltungslösungen präsentieren können"
+                        ],
+                        "creditpoints": 5,
+                        "lehrveranstaltungsnummer": 2240,
+                        "pruefung": "SCHRIFTLICH",
+                        "kurzbeschreibung": "Eine wichtige Gestaltungsdisziplin für Medieninformatikerinnen und Medieninformatiker ist das Design von Benutzungsoberflächen elektronischer Medien. Dabei werden die im ersten Semester erworbenen grundlegenden Gestaltungskenntnisse vertieft und speziali siert. Am Ende des Semesters sollen die Studierenden die gestalterische Funktionalität und ästhetische Qualität grafischer User-Interfaces nach objektiven Kriterien beurteilen können.",
+                        "abhaengigkeiten": [
+                            "Einführung in die Gestaltung"
+                        ],
+                        "kuerzel": "GEM",
+                        "fachsemester": 2,
+                        "bestanden": false,
+                        "lehrveranstaltung": [
+                            "VORLESUNG",
+                            "PRAKTIKUM"
+                        ]
+                    }
+                },
+                {
+                    "modul": {
+                        "ausgewaehlt": 0,
+                        "angebot": "SS",
+                        "titel": "Lineare Algebra",
+                        "kompetenzen": [
+                            "Beherrschung der Matrizenrechnung",
+                            "Lösen von linearen Gleichungssystemen",
+                            "Umgang mit komplexen Größen"
+                        ],
+                        "creditpoints": 5,
+                        "lehrveranstaltungsnummer": 2350,
+                        "pruefung": "SCHRIFTLICH",
+                        "kurzbeschreibung": "Die Modellbildung und deren Analyse fordert von Medieninformatikerinnen und Medieninformatikern den sicheren Umgang mit Vektoren und linearen Abbildungen",
+                        "abhaengigkeiten": [
+                            "Analysis"
+                        ],
+                        "kuerzel": "LA",
+                        "fachsemester": 2,
+                        "bestanden": false,
+                        "lehrveranstaltung": [
+                            "VORLESUNG"
+                        ]
+                    }
+                },
+                {
+                    "modul": {
+                        "ausgewaehlt": 0,
+                        "angebot": "SS",
+                        "titel": "IT-Recht und Datenschutz",
+                        "kompetenzen": [
+
+                        ],
+                        "creditpoints": 5,
+                        "lehrveranstaltungsnummer": 2460,
+                        "pruefung": "SCHRIFTLICH",
+                        "kurzbeschreibung": "Studierende sind in der Lage, ihr berufliches Handeln rechtlich zu begründen und kritisch in Bezug rechtliche Erwartungen und Folgen zu reflektieren. Sie beherrschen die Grundzusammenhänge des IT-Rechts und des Datenschutzrechts sowie das problembewusste Erkennen von entsprechenden praxisbezogenen Grundfällen im Arbeitsumfeld einer Medieninformatikerin und eines Medieninformatikers.",
+                        "abhaengigkeiten": [
+
+                        ],
+                        "kuerzel": "Recht",
+                        "fachsemester": 2,
+                        "bestanden": false,
+                        "lehrveranstaltung": [
+                            "VORLESUNG"
+                        ]
+                    }
+                },
+                {
+                    "modul": {
+                        "ausgewaehlt": 0,
+                        "angebot": "WS",
+                        "titel": "Automaten und formale Sprachen",
+                        "kompetenzen": [
+                            "Verfahren zur Mustererkennung, Spracherkennung und -erzeugung praktisch anwen den für z.B. die Suche in Texten, Syntaxanalyse, Kodierung, etc.",
+                            "Erkenntnisse über grundsätzliche und praktische Lösbarkeit eines Problems auf neue Probleme übertragen",
+                            "Theoretische Überlegungen auf gefestigten theoretischen Grundlagen der Informatik aufbauen"
+                        ],
+                        "creditpoints": 6,
+                        "lehrveranstaltungsnummer": 3110,
+                        "pruefung": "SCHRIFTLICH",
+                        "kurzbeschreibung": "Logisches Denken und strukturiertes Vorgehen - unabhängig von konkreten Rechnern und aktuellen Trends - ist Grundlage solider konzeptionellen Arbeit.",
+                        "abhaengigkeiten": [
+                            "Algorithmen und Datenstrukturen",
+                            "Analysis"
+                        ],
+                        "kuerzel": "AFS",
+                        "fachsemester": 3,
+                        "bestanden": false,
+                        "lehrveranstaltung": [
+                            "VORLESUNG",
+                            "PRAKTIKUM"
+                        ]
+                    }
+                },
+                {
+                    "modul": {
+                        "ausgewaehlt": 0,
+                        "angebot": "WS",
+                        "titel": "Datenbanksysteme",
+                        "kompetenzen": [
+                            "Modellieren, Erstellen von Entity-Relationship-Modellen und Umsetzung in relationale Datenmodelle",
+                            "Datenunabhängigkeit, Relationenmodell und -algebra, Transaktionskonzept verstehen und einsetzen können",
+                            "Kenntnisse in SQL zur Datendefinition, Datenmanipulation und für Anfragen nutzen, relationalen Datenbanken von Programmiersprachen aus nutzen"
+                        ],
+                        "creditpoints": 6,
+                        "lehrveranstaltungsnummer": 3120,
+                        "pruefung": "SCHRIFTLICH",
+                        "kurzbeschreibung": "Datenbanksysteme zum konsistenten Verwalten von Daten für Anwendungen im Ein- und Mehrbenutzerbetrieb sind aus der Praxis nicht mehr wegzudenken und werden von jeder Medieninformatikerin und jedem Medieninformatiker betrieben und genutzt.",
+                        "abhaengigkeiten": [
+                            "Algorithmen und Datenstrukturen",
+                            "Lineare Algebra",
+                            "Programmieren 2"
+                        ],
+                        "kuerzel": "DBS",
+                        "fachsemester": 3,
+                        "bestanden": false,
+                        "lehrveranstaltung": [
+                            "VORLESUNG",
+                            "PRAKTIKUM"
+                        ]
+                    }
+                },
+                {
+                    "modul": {
+                        "ausgewaehlt": 0,
+                        "angebot": "WS",
+                        "titel": "Entwicklung interaktiver Benutzungsoberflächen",
+                        "kompetenzen": [
+                            "Interaktionssstile einer Aufgabe entsprechend bewerten und auswählen",
+                            "Graphische Benutzungsschnittstellen/-komponenten objektorientiert und patternbasiert realisieren",
+                            "Realisierung von Benutzerinteraktionen im Rahmen einer interaktiven UI-Anwendung"
+                        ],
+                        "creditpoints": 6,
+                        "lehrveranstaltungsnummer": 3130,
+                        "pruefung": "SCHRIFTLICH",
+                        "kurzbeschreibung": "Bei der Anwendungsentwicklung ist die Konzeption und Umsetzung von Benutzerinteraktionen und Realisierung entsprechender Screenlayouts/Animationen eine typische Aufgabe von Medieninformatikerinnen und Medieninformatikern.",
+                        "abhaengigkeiten": [
+                            "Einführung in die Gestaltung",
+                            "Programmieren 2"
+                        ],
+                        "kuerzel": "EIBO",
+                        "fachsemester": 3,
+                        "bestanden": false,
+                        "lehrveranstaltung": [
+                            "VORLESUNG",
+                            "PRAKTIKUM"
+                        ]
+                    }
+                },
+                {
+                    "modul": {
+                        "ausgewaehlt": 0,
+                        "angebot": "WS",
+                        "titel": "Programmieren 3",
+                        "kompetenzen": [
+                            "Anwenden verschiedener Sprach-Paradigmen (imperativ, funktional, logisch) und Sprachebenen (high-level/low-level)",
+                            "Umsetzung anhand verschiedener praxisrelevanter Vertreter entsprechender Programmiersprachen, Integration verschiedener Paradigmen",
+                            "Nutzen von integrierten Funktionalitäten und Bibliotheken in höheren Programmiersprachen"
+                        ],
+                        "creditpoints": 6,
+                        "lehrveranstaltungsnummer": 3140,
+                        "pruefung": "SCHRIFTLICH",
+                        "kurzbeschreibung": "Sprachparadigmen und Sprachebenen Aufgabe entsprechend einsetzen, um Anwendungen und Infrastruktursoftware effizienter, kompakter, mit geringerem Fehlerpotential und wartungsfreundlicher zu realisieren.",
+                        "abhaengigkeiten": [
+                            "Auszeichnungssprachen",
+                            "Programmieren 2",
+                            "Algorithmen und Datenstrukturen"
+                        ],
+                        "kuerzel": "Prog3",
+                        "fachsemester": 3,
+                        "bestanden": false,
+                        "lehrveranstaltung": [
+                            "VORLESUNG",
+                            "PRAKTIKUM"
+                        ]
+                    }
+                },
+                {
+                    "modul": {
+                        "ausgewaehlt": 0,
+                        "angebot": "WS",
+                        "titel": "Angewandte Mathematik",
+                        "kompetenzen": [
+                            "Die wichtigsten Beweisverfahren sicher einsetzen",
+                            "Stochastische und statistische Methoden einsetzen",
+                            "Grundlegende Verfahren aus der Numerik anwenden"
+                        ],
+                        "creditpoints": 6,
+                        "lehrveranstaltungsnummer": 3160,
+                        "pruefung": "SCHRIFTLICH",
+                        "kurzbeschreibung": "Für die Informatik wichtige über den Stoff der Vorlesungen Lineare Algebra und Analysis hinausgehende mathematische Begriffe und Methoden beherrschen",
+                        "abhaengigkeiten": [
+                            "Analysis",
+                            "Lineare Algebra"
+                        ],
+                        "kuerzel": "AMath",
+                        "fachsemester": 3,
+                        "bestanden": false,
+                        "lehrveranstaltung": [
+                            "VORLESUNG"
+                        ]
+                    }
+                }, {
+                    "modul": {
+                        "ausgewaehlt": 0,
+                        "angebot": "SS",
+                        "titel": "Computergrafik",
+                        "kompetenzen": [
+                            "Verständnis des Renderingprozesses und Kenntnis des aktuellen Stands der Technik bezüglich der Renderingschritte",
+                            "Mit für die Computergrafik relevanten Konzepten aus dem Bereich der analytischen Geometrie sicher umgehen",
+                            "Objekte adäquat repräsentieren unter Verwendung passender Datenstrukturen",
+                            "Grafik-API (z.B. OpenGL, DirectX, ...) und Szenengraph-API (z.B. OpenInventor, Java3D, ...) praktisch einsetzen"
+                        ],
+                        "creditpoints": 6,
+                        "lehrveranstaltungsnummer": 4120,
+                        "verbindlichkeit": true,
+                        "pruefung": "SCHRIFTLICH",
+                        "kurzbeschreibung": "Grundkenntnisse der Computergrafik werden für eine große Zahl von Anwendungsgebieten der Informatik benötigt",
+                        "abhaengigkeiten": [
+                            "Lineare Algebra",
+                            "Programmieren 3",
+                            "Entwicklung interaktiver Benutzungsoberflächen"
+                        ],
+                        "kuerzel": "CG",
+                        "fachsemester": 4,
+                        "bestanden": false,
+                        "lehrveranstaltung": [
+                            "VORLESUNG",
+                            "PRAKTIKUM"
+                        ]
+                    }
+                },
+                {
+                    "modul": {
+                        "ausgewaehlt": 0,
+                        "angebot": "SS",
+                        "titel": "Rechnernetze und Betriebssysteme",
+                        "kompetenzen": [
+                            "Konzepte und aktuelle Technologien der Rechnervernetzung verstehen und bewerten können",
+                            "Durchgängiges Verständnis von Aufbau und Funktionsweise insb. des Internet anhand des ISO/OSI-7-Schichten-Modells",
+                            "Konzeption und Realisierung von Internet-Diensten auf Basis des Socket-APIs",
+                            "Methoden und Konzepte moderner Betriebssysteme zur Bewertung und Lösung von Problemstellungen einsetzen",
+                            "Systemnahe Programmierung in eigenen Programmen verwenden können"
+                        ],
+                        "creditpoints": 6,
+                        "lehrveranstaltungsnummer": 4130,
+                        "verbindlichkeit": true,
+                        "pruefung": "SCHRIFTLICH",
+                        "kurzbeschreibung": "Rechnernetze und das Internet mit den darauf aufbauenden Diensten die auf Servern mit Betriebssystemen zur Ressourcenverwaltung laufen sind die Grundlage moderner ITSysteme. Fundierte Kenntnisse über Konzepte, Aufbau und Einsatz moderner Netzwerktechnologien sowie von Betriebssystemkonzepten sind daher von großem Nutzen.",
+                        "abhaengigkeiten": [
+                            "Programmieren 3"
+                        ],
+                        "kuerzel": "RB",
+                        "fachsemester": 4,
+                        "bestanden": false,
+                        "lehrveranstaltung": [
+                            "VORLESUNG",
+                            "PRAKTIKUM"
+                        ]
+                    }
+                },
+                {
+                    "modul": {
+                        "ausgewaehlt": 0,
+                        "angebot": "SS",
+                        "titel": "Animation",
+                        "kompetenzen": [
+                            "Web-basierte Anwendungen klassifizieren und geeignetete Konzepte und Technologien auswaehlen und einsetzen",
+                            "Problemadaequat Web-basierte Anwendungen entwerfen und realisieren",
+                            "Typische Problemstellungen bei der Realisierung von Mehrbenutzer-Anwendungen und Client/Server Anwendungen identifizieren und loesen"
+                        ],
+                        "creditpoints": 6,
+                        "lehrveranstaltungsnummer": 4250,
+                        "verbindlichkeit": true,
+                        "pruefung": "SCHRIFTLICH",
+                        "kurzbeschreibung": "Grundlegende Fertigkeiten im Bereich Bewegtbild und Animation sind für die Gestaltung interaktiver Bildschirmmedien wichtig und komplettieren das für Medieninformatikerinnen und Medieninformatiker relevante Gestaltungsspektrum. Am Ende des Semesters sollen die Studierenden",
+                        "abhaengigkeiten": [
+                            "Gestaltung elektronischer Medien",
+                            "Entwicklung interaktiver Benutzungsoberflächen"
+                        ],
+                        "kuerzel": "ANIM",
+                        "fachsemester": 4,
+                        "bestanden": false,
+                        "lehrveranstaltung": [
+                            "VORLESUNG",
+                            "PRAKTIKUM"
+                        ]
+                    }
+                },
+                {
+                    "modul": {
+                        "ausgewaehlt": 0,
+                        "angebot": "SS",
+                        "titel": "Softwaretechnik",
+                        "kompetenzen": [
+                            "Software im Team entwicklen unter Einsatz entsprechender Vorgehensmodelle",
+                            "Modellieren von Anwendungsproblemen und Loesungskonzepten unter Einsatz der Unified Modeling Language (UML)",
+                            "Systematische Erhebung, Modellierung und Dokumentation von Anforderungen",
+                            "Ableitung einer und Beschreibung einer adaequaten Software-Architektur unter Beruecksichtigung grundlegender Qualitaets-Eigenschaften",
+                            "Ueberblick ueber und zielgerichteter Einsatz von aktuellen Architektur- und Entwurfsmustern",
+                            "Einsatz von Softwarewerkzeugen zur Unterstuetzung des kompletten Softwarelebenszyklus"
+                        ],
+                        "creditpoints": 6,
+                        "lehrveranstaltungsnummer": 4140,
+                        "verbindlichkeit": true,
+                        "pruefung": "SCHRIFTLICH",
+                        "kurzbeschreibung": "Die Faehigkeit zur Auswahl, Bewertung und praktischen Anwendung von Konzepten und Methoden zur systematischen Entwicklung (grosser) Softwaresystemen stellt eine zentrale Qualifikation fuer Medieninformatikerinnen und Medieninformatiker dar. Dabei sind die Phasen Analyse \/ Design von grundlegender Bedeutung fuer das Gelingen eines Softwareprojekts",
+                        "abhaengigkeiten": [
+                            "Programmieren 3",
+                            "Datenbanksysteme",
+                            "Entwicklung interaktiver Benutzungsoberflächen",
+                            "Programmieren 2"
+                        ],
+                        "kuerzel": "SWT",
+                        "fachsemester": 4,
+                        "bestanden": true,
+                        "lehrveranstaltung": [
+                            "VORLESUNG",
+                            "PRAKTIKUM"
+                        ]
+                    }
+                },
+                {
+                    "modul": {
+                        "ausgewaehlt": 0,
+                        "angebot": "SS",
+                        "titel": "Webbasierte Anwendungen",
+                        "kompetenzen": [
+                            "Web-basierte Anwendungen klassifizieren und geeignetete Konzepte und Technologien auswaehlen und einsetzen",
+                            "Problemadaequat Web-basierte Anwendungen entwerfen und realisieren",
+                            "Typische Problemstellungen bei der Realisierung von Mehrbenutzer-Anwendungen und Client/Server Anwendungen identifizieren und loesen"
+                        ],
+                        "creditpoints": 6,
+                        "lehrveranstaltungsnummer": 4150,
+                        "verbindlichkeit": true,
+                        "pruefung": "SCHRIFTLICH",
+                        "kurzbeschreibung": "Webbasierte Systeme sind eine der verbreitetsten Auspraegungen (verteilter) Informationssysteme und sind heute weder aus dem privaten noch aus dem beruflichen Bereich wegzudenken. Solche Systeme professionell planen, realisieren und beurteilen zu koennen, stellt daher eine wichtige Qualifikation dar.",
+                        "abhaengigkeiten": [
+                            "Programmieren 3",
+                            "Datenbanksysteme",
+                            "Entwicklung interaktiver Benutzungsoberflächen"
+                        ],
+                        "kuerzel": "WBA",
+                        "fachsemester": 4,
+                        "bestanden": false,
+                        "lehrveranstaltung": [
+                            "VORLESUNG",
+                            "PRAKTIKUM"
+                        ]
+                    }
+                },
+                {
+                    "modul": {
+                        "ausgewaehlt": 0,
+                        "angebot": "WS",
+                        "titel": "SoftwaretechnikProjekt",
+                        "kompetenzen": [
+                            "Softwareprojekte managen und den persönlichen Arbeitsprozess organisieren",
+                            "Software-Tests und Software-Qualitätssicherung planen und durch führen",
+                            "Ganzheitlichen Software-Lebenszyklus beider Softwareerstellung berücksichtigen",
+                            "Selbst organisiert und arbeitsteilig umfangreichen Entwicklungsprojekte praktisch im Team umsetzen"
+                        ],
+                        "creditpoints": 10,
+                        "lehrveranstaltungsnummer": 5110,
+                        "pruefung": "SCHRIFTLICH",
+                        "kurzbeschreibung": "Die Faehigkeit zur Auswahl, Bewertung und praktischen Anwendung von Konzepten und Methoden zur systematischen Entwicklung (grosser) Softwaresystemen stellt eine zentrale Qualifikation fuer Medieninformatikerinnen und Medieninformatiker dar. Dabei sind die Phasen Analyse \/ Design von grundlegender Bedeutung fuer das Gelingen eines Softwareprojekts",
+                        "abhaengigkeiten": [
+                            "Webbasierte Anwendungen",
+                            "Programmieren 3",
+                            "Softwaretechnik",
+                            "Datenbanksysteme"
+                        ],
+                        "kuerzel": "SWTPr",
+                        "fachsemester": 5,
+                        "bestanden": false,
+                        "lehrveranstaltung": [
+                            "VORLESUNG",
+                            "PRAKTIKUM"
+                        ]
+                    }
+                },
+                {
+                    "modul": {
+                        "ausgewaehlt": 0,
+                        "angebot": "WS",
+                        "titel": "Mensch-Computer-Interaktion",
+                        "kompetenzen": [
+                            "SoftwareprojektemanagenunddenpersönlichenArbeitsprozessorganisieren",
+                            "Software-TestsundSoftware-Qualitätssicherungplanenunddurchführen",
+                            "GanzheitlichenSoftware-LebenszyklusbeiderSoftwareerstellungberücksichtigen",
+                            "SelbstorganisiertundarbeitsteiligumfangreichenEntwicklungsprojektepraktischimTeamumsetzen"
+                        ],
+                        "creditpoints": 6,
+                        "lehrveranstaltungsnummer": 4140,
+                        "pruefung": "SCHRIFTLICH",
+                        "kurzbeschreibung": "Interaktion zwischen Mensch und Maschiene",
+                        "abhaengigkeiten": [
+                            "Entwicklung interaktiver Benutzungsoberflächen",
+                            "Softwaretechnik",
+                            "Gestaltung elektronischer Medien"
+                        ],
+                        "kuerzel": "MCI",
+                        "fachsemester": 5,
+                        "bestanden": false,
+                        "lehrveranstaltung": [
+                            "VORLESUNG",
+                            "PRAKTIKUM"
+                        ]
+                    }
+                },
+                {
+                    "modul": {
+                        "ausgewaehlt": 0,
+                        "angebot": "WS",
+                        "titel": "Wahlplicht Modul Groß",
+                        "kompetenzen": [
+                            "je nach wahl anders"
+                        ],
+                        "creditpoints": 10,
+                        "lehrveranstaltungsnummer": 5120,
+                        "pruefung": "SCHRIFTLICH",
+                        "kurzbeschreibung": "Wahl von vielen Modulen",
+                        "abhaengigkeiten": [],
+                        "kuerzel": "MahlGr",
+                        "fachsemester": 5,
+                        "bestanden": false,
+                        "lehrveranstaltung": [
+                            "VORLESUNG",
+                            "PRAKTIKUM"
+                        ]
+                    }
+                },
+                {
+                    "modul": {
+                        "ausgewaehlt": 0,
+                        "angebot": "WS",
+                        "titel": "Wahlplicht Modul klein",
+                        "kompetenzen": [
+                            "je nach wahl anders"
+                        ],
+                        "creditpoints": 5,
+                        "lehrveranstaltungsnummer": 5120,
+                        "pruefung": "SCHRIFTLICH",
+                        "kurzbeschreibung": "Wahl von vielen Modulen",
+                        "abhaengigkeiten": [],
+                        "kuerzel": "MahlGr",
+                        "fachsemester": 5,
+                        "bestanden": false,
+                        "lehrveranstaltung": [
+                            "VORLESUNG",
+                            "PRAKTIKUM"
+                        ]
+                    }
+                },
+                {
+                    "modul": {
+                        "ausgewaehlt": 0,
+                        "angebot": "SS",
+                        "titel": "Berufspraktische Tätigkeit",
+                        "kompetenzen": [
+                            "Orientierung im angestrebten Berufsfeld",
+                            "Erwerb praktischer Kenntnisse und Kennenlernen berufstypischer Arbeitsweisen",
+                            "Kennenlernen technischer und organisatorischer Zusammenhänge, die für dasBerufsfeld typisch sind",
+                            "Beteiligung am Arbeitsprozess entsprechend dem Ausbildungsstand",
+                            "Praktische Ausbildung an fest umrissenen, konkreten Projekten"
+                        ],
+                        "creditpoints": 30,
+                        "lehrveranstaltungsnummer": 6100,
+                        "pruefung": "SCHRIFTLICH",
+                        "kurzbeschreibung": "Das Praxisprojekt bietet den Studierenden die Möglichkeit, ihre in mehreren Semesternan der Hochschule erworbenen fachlichen Fähigkeiten in der Praxis zu erproben und zusätzlich wichtige Kompetenzen im außerfachlichen Bereich zu erwerben. Es spielt daher im Rahmen einer praxisorientierten und arbeitsmarktgerechten Ausbildung sowie zur Persönlichkeitsbildung eine zentrale Rolle.",
+                        "abhaengigkeiten": [],
+                        "kuerzel": "BPT",
+                        "fachsemester": 6,
+                        "bestanden": false,
+                        "lehrveranstaltung": [
+                            "PRAKTIKUM"
+                        ]
+                    }
+                }, {
+                    "modul": {
+                        "ausgewaehlt": 0,
+                        "angebot": "WS",
+                        "titel": "Wahlpflicht-Liste Internationalisierung",
+                        "kompetenzen": [
+
+                        ],
+                        "creditpoints": 4,
+                        "lehrveranstaltungsnummer": 0,
+                        "pruefung": "PRAKTISCH",
+                        "kurzbeschreibung": "",
+                        "abhaengigkeiten": [
+
+                        ],
+                        "kuerzel": "INT",
+                        "fachsemester": 7,
+                        "bestanden": false,
+                        "lehrveranstaltung": [
+
+                        ]
+                    }
+                },
+                {
+                    "modul": {
+                        "ausgewaehlt": 0,
+                        "angebot": "WS",
+                        "titel": "Portfolio Medieninformatik",
+                        "kompetenzen": [
+
+                        ],
+                        "creditpoints": 10,
+                        "lehrveranstaltungsnummer": 7000,
+                        "pruefung": "PRAKTISCH",
+                        "kurzbeschreibung": "Ziel des Moduls ist es, den Studierenden die Möglichkeit zu geben, ein ihren Neigungen entsprechendes Kompetenzprofil auszubauen. Die Studierenden können aus den vorhan denen Auswahllisten und den weiteren Wahlmöglichkeiten die Lehrveranstaltungen und Projekte identifizieren, die ihr Profil wie gewünscht erweitern. Zudem können die Studierenden in diesem Modul die Fähigkeiten zur praktische Umsetzung mittels ihrer bisher erworbenen Kompetenzen anhand von Projekten vertiefen. Neben Kompetenzen in den Bereichen der Informatik und Gestaltung erlangen die Studierenden Kompetenzen im Bereich des Projektmanagements sowie beim wissenschaftlichen Arbeiten und bei der Vorbereitung von Präsentationen",
+                        "abhaengigkeiten": [
+
+                        ],
+                        "kuerzel": "PM",
+                        "fachsemester": 7,
+                        "bestanden": false,
+                        "lehrveranstaltung": [
+
+                        ]
+                    }
+                },
+                {
+                    "modul": {
+                        "ausgewaehlt": 0,
+                        "angebot": "WS",
+                        "titel": "Bachelor-Thesis",
+                        "kompetenzen": [
+
+                        ],
+                        "creditpoints": 15,
+                        "lehrveranstaltungsnummer": 9040,
+                        "pruefung": "PRAKTISCH",
+                        "kurzbeschreibung": "Selbständige praxistaugliche Anwendung der im Studium gelernten Konzepte und Methoden zur Lösung einer begrenzten Aufgabenstellung in begrenzter Zeit im Schwierigkeitsbereich von fortgeschrittenen Lehrbüchern unter Einschluss einiger Bereiche des aktuellsten Wissensstandes des Studienfaches. Präsentation der Themenstellung der Abschlussarbeit und der dabei entwickelten Ergebnisse.",
+                        "abhaengigkeiten": [
+
+                        ],
+                        "kuerzel": "Thesis",
+                        "fachsemester": 7,
+                        "bestanden": false,
+                        "lehrveranstaltung": [
+
+                        ]
+                    }
+                }
+
+            ]
+
+        }
+
+    }
+
+]

@@ -1,0 +1,164 @@
+[{
+    "modul": {
+        "ausgewaehlt": 0,
+        "angebot": "WS",
+        "titel": "Automaten und formale Sprachen",
+        "kompetenzen": [
+            "Verfahren zur Mustererkennung, Spracherkennung und -erzeugung praktisch anwen den für z.B. die Suche in Texten, Syntaxanalyse, Kodierung, etc.",
+            "Erkenntnisse über grundsätzliche und praktische Lösbarkeit eines Problems auf neue Probleme übertragen",
+            "Theoretische Überlegungen auf gefestigten theoretischen Grundlagen der Informatik aufbauen"
+        ],
+        "creditpoints": 6,
+        "lehrveranstaltungsnummer": 3110,
+        "pruefung": "SCHRIFTLICH",
+        "kurzbeschreibung": "Logisches Denken und strukturiertes Vorgehen - unabhängig von konkreten Rechnern und aktuellen Trends - ist Grundlage solider konzeptionellen Arbeit.",
+        "abhaengigkeiten": [
+            "Algorithmen und Datenstrukturen",
+            "Analysis"
+        ],
+        "kuerzel": "AFS",
+        "fachsemester": 3,
+        "bestanden": false,
+        "lehrveranstaltung": [
+            "VORLESUNG",
+            "PRAKTIKUM"
+        ]
+    }
+},
+{
+    "modul": {
+        "ausgewaehlt": 0,
+        "angebot": "WS",
+        "titel": "Datenbanksysteme",
+        "kompetenzen": [
+            "Modellieren, Erstellen von Entity-Relationship-Modellen und Umsetzung in relationale Datenmodelle",
+            "Datenunabhängigkeit, Relationenmodell und -algebra, Transaktionskonzept verstehen und einsetzen können",
+            "Kenntnisse in SQL zur Datendefinition, Datenmanipulation und für Anfragen nutzen, relationalen Datenbanken von Programmiersprachen aus nutzen"
+        ],
+        "creditpoints": 6,
+        "lehrveranstaltungsnummer": 3120,
+        "pruefung": "SCHRIFTLICH",
+        "kurzbeschreibung": "Datenbanksysteme zum konsistenten Verwalten von Daten für Anwendungen im Ein- und Mehrbenutzerbetrieb sind aus der Praxis nicht mehr wegzudenken und werden von jeder Medieninformatikerin und jedem Medieninformatiker betrieben und genutzt.",
+        "abhaengigkeiten": [
+            "Algorithmen und Datenstrukturen",
+            "Lineare Algebra",
+            "Programmieren 2"
+        ],
+        "kuerzel": "DBS",
+        "fachsemester": 3,
+        "bestanden": false,
+        "lehrveranstaltung": [
+            "VORLESUNG",
+            "PRAKTIKUM"
+        ]
+    }
+},
+{
+    "modul": {
+        "ausgewaehlt": 0,
+        "angebot": "WS",
+        "titel": "Entwicklung interaktiver Benutzungsoberflächen",
+        "kompetenzen": [
+            "Interaktionssstile einer Aufgabe entsprechend bewerten und auswählen",
+            "Graphische Benutzungsschnittstellen/-komponenten objektorientiert und patternbasiert realisieren",
+            "Realisierung von Benutzerinteraktionen im Rahmen einer interaktiven UI-Anwendung"
+        ],
+        "creditpoints": 6,
+        "lehrveranstaltungsnummer": 3130,
+        "pruefung": "SCHRIFTLICH",
+        "kurzbeschreibung": "Bei der Anwendungsentwicklung ist die Konzeption und Umsetzung von Benutzerinteraktionen und Realisierung entsprechender Screenlayouts/Animationen eine typische Aufgabe von Medieninformatikerinnen und Medieninformatikern.",
+        "abhaengigkeiten": [
+            "Einführung in die Gestaltung",
+            "Programmieren 2"
+        ],
+        "kuerzel": "EIBO",
+        "fachsemester": 3,
+        "bestanden": false,
+        "lehrveranstaltung": [
+            "VORLESUNG",
+            "PRAKTIKUM"
+        ]
+    }
+},
+{
+    "modul": {
+        "ausgewaehlt": 0,
+        "angebot": "WS",
+        "titel": "Programmieren 3",
+        "kompetenzen": [
+            "Anwenden verschiedener Sprach-Paradigmen (imperativ, funktional, logisch) und Sprachebenen (high-level/low-level)",
+            "Umsetzung anhand verschiedener praxisrelevanter Vertreter entsprechender Programmiersprachen, Integration verschiedener Paradigmen",
+            "Nutzen von integrierten Funktionalitäten und Bibliotheken in höheren Programmiersprachen"
+        ],
+        "creditpoints": 6,
+        "lehrveranstaltungsnummer": 3140,
+        "pruefung": "SCHRIFTLICH",
+        "kurzbeschreibung": "Sprachparadigmen und Sprachebenen Aufgabe entsprechend einsetzen, um Anwendungen und Infrastruktursoftware effizienter, kompakter, mit geringerem Fehlerpotential und wartungsfreundlicher zu realisieren.",
+        "abhaengigkeiten": [
+            "Auszeichnungssprachen",
+            "Programmieren 2",
+            "Algorithmen und Datenstrukturen"
+        ],
+        "kuerzel": "Prog3",
+        "fachsemester": 3,
+        "bestanden": false,
+        "lehrveranstaltung": [
+            "VORLESUNG",
+            "PRAKTIKUM"
+        ]
+    }
+},
+{
+    "modul": {
+        "ausgewaehlt": 0,
+        "angebot": "WS",
+        "titel": "Angewandte Mathematik",
+        "kompetenzen": [
+            "Die wichtigsten Beweisverfahren sicher einsetzen",
+            "Stochastische und statistische Methoden einsetzen",
+            "Grundlegende Verfahren aus der Numerik anwenden"
+        ],
+        "creditpoints": 6,
+        "lehrveranstaltungsnummer": 3160,
+        "pruefung": "SCHRIFTLICH",
+        "kurzbeschreibung": "Für die Informatik wichtige über den Stoff der Vorlesungen Lineare Algebra und Analysis hinausgehende mathematische Begriffe und Methoden beherrschen",
+        "abhaengigkeiten": [
+            "Analysis",
+            "Lineare Algebra"
+        ],
+        "kuerzel": "AMath",
+        "fachsemester": 3,
+        "bestanden": false,
+        "lehrveranstaltung": [
+            "VORLESUNG"
+        ]
+    }
+},
+{
+"modul": {
+    "ausgewaehlt": 0,
+    "angebot": "SS",
+    "titel": "Berufspraktische Tätigkeit",
+    "kompetenzen": [
+        "Orientierung im angestrebten Berufsfeld",
+        "Erwerb praktischer Kenntnisse und Kennenlernen berufstypischer Arbeitsweisen",
+        "Kennenlernen technischer und organisatorischer Zusammenhänge, die für dasBerufsfeld typisch sind",
+        "Beteiligung am Arbeitsprozess entsprechend dem Ausbildungsstand",
+        "Praktische Ausbildung an fest umrissenen, konkreten Projekten"
+    ],
+    "creditpoints": 30,
+    "lehrveranstaltungsnummer": 6100,
+    "pruefung": "SCHRIFTLICH",
+    "kurzbeschreibung": "Das Praxisprojekt bietet den Studierenden die Möglichkeit, ihre in mehreren Semesternan der Hochschule erworbenen fachlichen Fähigkeiten in der Praxis zu erproben und zusätzlich wichtige Kompetenzen im außerfachlichen Bereich zu erwerben. Es spielt daher im Rahmen einer praxisorientierten und arbeitsmarktgerechten Ausbildung sowie zur Persönlichkeitsbildung eine zentrale Rolle.",
+    "abhaengigkeiten": [
+    ],
+    "kuerzel": "BPT",
+    "fachsemester": 6,
+    "bestanden": false,
+    "lehrveranstaltung": [
+        "PRAKTIKUM"
+    ]
+}
+}
+
+]

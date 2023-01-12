@@ -1,0 +1,107 @@
+[
+
+    {
+        "modul": {
+            "ausgewaehlt": 0,
+            "angebot": "WS",
+            "titel": "SoftwaretechnikProjekt",
+            "kompetenzen": [
+                "Softwareprojekte managen und den persönlichen Arbeitsprozess organisieren",
+                "Software-Tests und Software-Qualitätssicherung planen und durch führen",
+                "Ganzheitlichen Software-Lebenszyklus beider Softwareerstellung berücksichtigen",
+                "Selbst organisiert und arbeitsteilig umfangreichen Entwicklungsprojekte praktisch im Team umsetzen"
+            ],
+            "creditpoints": 10,
+            "lehrveranstaltungsnummer": 5110,
+            "pruefung": "SCHRIFTLICH",
+            "kurzbeschreibung": "Die Faehigkeit zur Auswahl, Bewertung und praktischen Anwendung von Konzepten und Methoden zur systematischen Entwicklung (grosser) Softwaresystemen stellt eine zentrale Qualifikation fuer Medieninformatikerinnen und Medieninformatiker dar. Dabei sind die Phasen Analyse \/ Design von grundlegender Bedeutung fuer das Gelingen eines Softwareprojekts",
+            "abhaengigkeiten": [
+                "WebbasierteAnwendungen",
+                "Programmieren3",
+                "Softwaretechnik",
+                "Datenbanksysteme"
+            ],
+            "kuerzel": "SWTPr",
+            "fachsemester": 5,
+            "bestanden": false,
+            "lehrveranstaltung": [
+                "VORLESUNG",
+                "PRAKTIKUM"
+            ]
+        }
+    },
+    {
+        "modul": {
+            "ausgewaehlt": 0,
+            "angebot": "WS",
+            "titel": "Mensch-Computer-Interaktion",
+            "kompetenzen": [
+                "SoftwareprojektemanagenunddenpersönlichenArbeitsprozessorganisieren",
+                "Software-TestsundSoftware-Qualitätssicherungplanenunddurchführen",
+                "GanzheitlichenSoftware-LebenszyklusbeiderSoftwareerstellungberücksichtigen",
+                "SelbstorganisiertundarbeitsteiligumfangreichenEntwicklungsprojektepraktischimTeamumsetzen"
+            ],
+            "creditpoints": 6,
+            "lehrveranstaltungsnummer": 4140,
+            "pruefung": "SCHRIFTLICH",
+            "kurzbeschreibung": "Interaktion zwischen Mensch und Maschiene",
+            "abhaengigkeiten": [
+                "Entwicklung interaktiver Benutzungsoberflächen",
+                "Softwaretechnik",
+                "Gestaltung elektronischer Medien"
+            ],
+            "kuerzel": "MCI",
+            "fachsemester": 5,
+            "bestanden": false,
+            "lehrveranstaltung": [
+                "VORLESUNG",
+                "PRAKTIKUM"
+            ]
+        }
+    },
+    {
+        "modul": {
+            "ausgewaehlt": 0,
+            "angebot": "WS",
+            "titel": "Wahlplicht Modul Groß",
+            "kompetenzen": [
+                "je nach wahl anders"
+            ],
+            "creditpoints": 10,
+            "lehrveranstaltungsnummer": 5120,
+            "pruefung": "SCHRIFTLICH",
+            "kurzbeschreibung": "Wahl von vielen Modulen",
+            "abhaengigkeiten": [],
+            "kuerzel": "MahlGr",
+            "fachsemester": 5,
+            "bestanden": false,
+            "lehrveranstaltung": [
+                "VORLESUNG",
+                "PRAKTIKUM"
+            ]
+        }
+    },
+    {
+        "modul": {
+            "ausgewaehlt": 0,
+            "angebot": "WS",
+            "titel": "Wahlplicht Modul klein",
+            "kompetenzen": [
+                "je nach wahl anders"
+            ],
+            "creditpoints": 5,
+            "lehrveranstaltungsnummer": 5120,
+            "pruefung": "SCHRIFTLICH",
+            "kurzbeschreibung": "Wahl von vielen Modulen",
+            "abhaengigkeiten": [],
+            "kuerzel": "MahlGr",
+            "fachsemester": 5,
+            "bestanden": false,
+            "lehrveranstaltung": [
+                "VORLESUNG",
+                "PRAKTIKUM"
+            ]
+        }
+    }
+
+]
